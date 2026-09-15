@@ -1,11 +1,4 @@
-<!-- 
-Spec-Driven Development Prompts 
-for skills
--->
-
-# Prompts
-
-## 1. Registering a new skill for feature development
+# feature-spec skill
 
 The skill will be registered at *[project_home]*/.claude/skills/*[skill name]*/SKILL.md
 
@@ -24,6 +17,6 @@ The skill will be registered at *[project_home]*/.claude/skills/*[skill name]*/S
 >
 > Important: You *must* use your AskUserQuestion tool, grouped on these 3, before writing to disk.
 
-## 2. Execute the new skill
+## 2. Usage of the new skill
 
 > Use your **/feature-spec** skill to work on the next roadmap feature.
