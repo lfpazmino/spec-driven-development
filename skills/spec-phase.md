@@ -19,4 +19,4 @@ The skill will be registered at *[project_home]*/.claude/skills/*[skill name]*/S
 
 ## 2. Usage of the new skill
 
-> Use your **/feature-spec** skill to work on the next roadmap feature.
+> Use your `/spec-phase` skill to work on a specificic roadmap phase. Otherwise the `/spec.dev` will take automatically the next phase.
