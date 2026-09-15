@@ -6,20 +6,18 @@ Defined by the engineering team
 Define the tech stack to be used
 -->
 
-# MyProject
+# Tech Stack
 
-## Tech Stack
-
-### Overview
+## Overview
 
 Server-side app....
 
-### Core
+## Core
 
 | Layer | Choice | Rationale |
 | --- | --- | --- |
 
-### FrontEnd
+## FrontEnd
 
 | Layer | Choice | Rationale |
 | --- | --- | --- |
@@ -31,7 +29,7 @@ Server-side app....
 | State Management | ... | e.g. React Context + Zustand |
 | Data Fetching | ... | e.g. TanStack Query (React Query) |
 
-### Backend
+## Backend
 
 | Layer | Choice | Rationale |
 | --- | --- | --- |

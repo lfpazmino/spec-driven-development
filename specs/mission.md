@@ -5,17 +5,15 @@ mission.md
 Describes the application's mission. Generated my claude
 -->
 
-# MyProject
-
-## Mission
+# Mission
 
 MyProject's top mission
 
-### Core Concept
+## Core Concept
 
 Core concept behind the app
 
-### Key Features
+## Key Features
 
 - **Feature 1** - Capability 1
 - **Feature 2** - Capability 2
@@ -26,20 +24,20 @@ Core concept behind the app
 Examples
 
 <!-- Generated section -->
-### What We Do
+## What We Do
 
 **{MyProject}** goal.
 
-### Who We Serve
+## Who We Serve
 
 - **User type 1** — profile description.
 - **User type 2** — profile description.
 
-### Target Audience
+## Target Audience
 
 - **User group 1** behaviour.
 - **User group 1** behaviour.
 
-### What Success Looks Like
+## What Success Looks Like
 
 Ultimate goal.

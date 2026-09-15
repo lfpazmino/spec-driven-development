@@ -6,17 +6,15 @@ Defined by the product team
 Define the roadmap
 -->
 
-# MyProject
-
-## Roadmap
+# Roadmap
 
 Phases are intentionally small — each one is a shippable slice of work, independently reviewable and testable.
 
 ---
 
-### Phase 1 - Project Foundation (Week 1)
+## Phase 1 - Project Foundation (Week 1)
 
-#### 1.1 Task 1
+### 1.1 Task 1
 
 - [x] Define project mission
 - [ ] Finalize tech stack definitions

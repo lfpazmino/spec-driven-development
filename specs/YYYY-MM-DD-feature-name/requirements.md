@@ -5,13 +5,11 @@ requirements.md
 Describes the feature's requirements
 -->
 
-# MyProject
-
-## Phase 1 Requirements — {Feature-Name}
+# Phase 1 Requirements — {Feature-Name}
 
 ## Scope
 
-Festure scope
+Feature's scope
 
 ## Out of Scope
 
