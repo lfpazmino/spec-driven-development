@@ -20,7 +20,7 @@ for Greenfield projects
 >Important: You *must* use your AskUserQuestion tool, grouped on these 3, before writing to disk.
 
 <!-- Don't forget to commit the project at every checkpoint !-->
-> Commit this point (Although use the git tool to avoid token use unnecessarily)
+> Just show instructions to commit, merge with the main branch and delete this branch. Do not execute any git commands
 
 ## 3. Add any missing section e.g. not target audience
 
@@ -48,27 +48,29 @@ for Greenfield projects
 ## 5. Feature implementation
 
 > Implement the remaining task group
-<!-- -->
+>
 > Update the {YYYY-MM-DD- feature-1}/plan.md and implement a ... (adjustments)
-<!-- -->
-> Mark this specs/roadmap.md phase as complete, commit this work, switch to main, and merge this branch, then delete it. (Although the recommedation is manual git actions)
+>
+> Mark this specs/roadmap.md phase as complete
+>
+> Just show instructions to commit, merge with the main branch and delete this branch. Do not execute any git commands
 
 ## 6. Replanning & Validation
 
 > Update this tech-stack.md to capture that we want to use Vitest tests for validation and write a script in package.json.
-<!-- -->
+>
 > Update existing specs and code to reflect these testing changes.
-<!-- -->
+>
 > Write a new test suite using the specified testing framework.
-<!-- -->
+>
 > The product's web UI should follow responsive design. Update the product specs and all feature specs to reflect this, as well as any code.
 
 Create a skill for a repeatable work:
 > I want to keep a CHANGELOG.md in the project root, with headings for dates. If no changelog, examine git commits and add bullets for each date. Then, as we work, we will manually invoke this skill before merging. Help me write a skill for this.
-<!-- -->
+>
 > Use your changelog skill to update the changelog.
-<!-- -->
-> Commit this, switch to main, and merge this branch, then delete it.
+>
+> Just show instructions to commit, merge with the main branch and delete this branch. Do not execute any git commands
 
 Analyze the roadmap and check if after this iteration it still applies, otherwise combine/create new phases accodingly:
 > Go to the roadmap.md and combine phases 2-3-4-5 into a new phase 2.

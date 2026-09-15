@@ -51,4 +51,6 @@ Defined in TODO.md file
 
 > Implement the feature's plan
 >
-> Commit, merge with the main branch and delete this branch. At the end mark the Phase as completed in /specs/roadmap.md
+>At the end mark the Phase as completed in /specs/roadmap.md
+>
+> Just show instructions to commit, merge with the main branch and delete this branch. Do not execute any git commands
