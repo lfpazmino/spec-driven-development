@@ -11,7 +11,7 @@ Captures detailed feature requirements
 
 ### Business Goals
 
-Why is a feature exist
+Why each one of the features exist
 
 ### Functional specs
 

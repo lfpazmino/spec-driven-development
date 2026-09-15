@@ -2,18 +2,16 @@
 Template for spec-driven development
 README.md
 
-Capture project's TODO next features
+Capture project's TODO next phase
 -->
 
-# MyProject
+# TODO
 
-## TODO
+## Now
 
-### Now
+- Phase
 
-- Feature
+## Next
 
-### Next
-
-- Next feature 1
-- Next feature/adjustment/refactoring
+- Next Phase
+- Evaluate adjustments or refactoring required

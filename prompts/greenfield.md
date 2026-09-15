@@ -26,30 +26,31 @@ for Greenfield projects
 
 > Add a target audience to the mission
 
-## 4. Feature Specification
+## 4. Phase Specification
 
-> Find the next phase on specs/roadmap.md and make a branch, ask me about the feature spec.
+> Find the next phase on specs/roadmap.md and make a branch, ask me about the phase spec.
 > Create:
 >
-> - A new directory YYYY-MM-DD-feature-name under specs for this feature work
+> - A new directory YYYY-MM-DD-phase-name under specs for this phase work
 > - In there:
 >
 >   - `plan.md` as a series of numbered task groups.
 >   - `requirements.md` for the scope, decisions, context
 >   - `validation.md` for how to know the implementation succeeded and can be merged
+>   - `model.c4` for the [LikeC4](https://likec4.dev) model that will reflect the architectural diagram for having a visual representation of generated components that this phases included.
 >
 > Refer to specs/mission.md and specs/tech-stack.md for guidance.
 >
 >Important: You *must* use your AskUserQuestion tool, grouped on these 3, before writing to disk.
 
 <!-- Any missing task -->
-> Add a task group to the plan to have a minimal {MyProject} home page and update the rest of the feature spec to be in sync.
+> Add a task group to the plan to have a minimal {MyProject} home page and update the rest of the phase spec to be in sync.
 
-## 5. Feature implementation
+## 5. Phase implementation
 
 > Implement the remaining task group
 >
-> Update the {YYYY-MM-DD- feature-1}/plan.md and implement a ... (adjustments)
+> Update the {YYYY-MM-DD-phase-name}/plan.md and implement a ... (adjustments)
 >
 > Mark this specs/roadmap.md phase as complete
 >
@@ -75,27 +76,28 @@ Create a skill for a repeatable work:
 Analyze the roadmap and check if after this iteration it still applies, otherwise combine/create new phases accodingly:
 > Go to the roadmap.md and combine phases 2-3-4-5 into a new phase 2.
 
-## 7. Iterate to the next feature
+## 7. Iterate to the next phase
 
 Start with a clean context `/clear`
 
 Commit and merge the corresponding branch:
-> Find the next phase on specs/roadmap.md and make a branch, ask me about the features spec.
+> Find the next phase on specs/roadmap.md and make a branch, ask me about the phase spec.
 >
 > Create:
 >
-> - A new directory YYYY-MM-DD-feature-name under specs for this feature work
+> - A new directory YYYY-MM-DD-phase-name under specs for this phase work
 > - In there:
 >   - `plan.md` as a series of numbered task groups
 >   - `requirements.md` for the scope, decisions, context
 >   - `validation.md` for how to know the implementation succeeded and can be merged
+>   - `model.c4` for the [LikeC4](https://likec4.dev) model that will reflect the architectural diagram for having a visual representation of generated components that this phases included.
 >
 > Refer to specs/mission.md and specs/tech-stackmd for guidance.
 >
 > Important: You *must* use your AskUserQuestion tool, grouped on these 3, before writing to disk.
 
-Implement this feature by making the size of the feature manageable:
-> Implement this feature
+Implement this phase by making the size of the phase manageable:
+> Implement this phase
 
 Ask agents to refactor if required, or to follow specific coding guidelines
 

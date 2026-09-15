@@ -17,6 +17,9 @@ I want to embark in a set of project based on Spec-driven development. For these
 >
 >- I expect you to bring the best-of-breed technology stacks, architecture and the latest advancements to develop leading-edge applications. For this, I will be using context7.
 >
+>- The spec will become the project's memory
+>- I don't want to lose control of the generated source code, so I need you to document everything deploy in architecture diagrams. Use a nice interactive layout for generating components architecture, solution's architecture, features, functionalities, etc. Research the best way to generate visual software documentation, and make sure to update it as soon as you generate new code.
+>
 > The templates and guidance I want to use is available at: [Spec Driven Dev Template](https://github.com/lfpazmino/spec-driven-development.git). Therefore, I need you to in order to create and register the skill I need you to follow these steps:
 >
 > 1. Go through and explore ll the existing files within the project to understand the files and the template I am planning to use.
@@ -29,15 +32,14 @@ I want to embark in a set of project based on Spec-driven development. For these
 >
 >       Look for the templates' files stored at `specs/` to have an idea of the output I will be expecting when I ask to generate this files.
 >
-> 4. After the signing off the project spec, we will be working on the **features specification**. I will proceed with iterating each **feature implementation**. For this, I will expect to create a set of specs like the ones available at `specs/YYY-MM-DD-feature-name` that includes these files:
+> 4. After the signing off the project spec, we will be working on the **phases specification**. I will proceed with iterating each **phase implementation**. For this, I will expect to create a set of specs like the ones available at `specs/YYY-MM-DD-phase-name` that includes these files:
 >       - `plan.md` as a series of numbered task groups.
 >       - `requirements.md` for the scope, decisions, context
 >       - `validation.md` for how to know the implementation succeeded and can be merged.
-> 5. We will be iterating in a replanning & validation, until we define a cut-off of a stable version (MVP)
+>       - `model.c4` for the [LikeC4](https://likec4.dev) model that will reflect the architectural diagram for having a visual representation of generated components that this phases included.
 >
-> 6. Sometimes, I won't be following the features in a certain order. Thus, reference to the `TODO.md` file for defining what to do next.
+> 5. We will be iterating in a replanning & validation, until we define a cut-off of a stable version (MVP). Always make sure to update the whole general architectural components diagram located at `architecture/model.c4`
 >
-> 7. For projects with existing code. We will be following the `prompts/brownfield.md` prompts.
+> Sometimes, I won't be following phases in a certain order. Thus, reference to the `TODO.md` file for defining what to do next.
 >
-> - The spec will become the project's memory
-> - I don't want to lose control of the generated source code, so I need you to document everything deploy in architecture diagrams. Use a nice interactive layout for generating components architecture, solution's architecture, features, functionalities, etc. Research the best way to generate visual software documentation, and make sure to update it as soon as you generate new code.
+> For projects with existing code. We will be following the `prompts/brownfield.md` prompts.

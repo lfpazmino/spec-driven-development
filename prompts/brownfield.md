@@ -26,20 +26,21 @@ Work in a clean session, and in a new project directory. It should apply reverse
 
 > Implement the plan.
 
-## 3. Find the next feature to implement
+## 3. Find the next phase to implement
 
 Defined in TODO.md file
 
-> I want to stop repeating the feature spec prompt. Use your skill creator to help me write a "feature spec" local skill. Here is the previous prompt:
+> I want to stop repeating the phase spec prompt. Use your skill creator to help me write a "phase spec" local skill. Here is the previous prompt:
 >
-> Find the next phase on specs/roadmap.md and make a branch, ask me about the feature spec.
+> Find the next phase on specs/roadmap.md and make a branch, ask me about the phase spec.
 > Create:
 >
-> - A new directory YYYY-MM-DD-feature-name under specs for this feature work
+> - A new directory YYYY-MM-DD-phase-name under specs for this phase work
 > - In there:
 >   - `plan.md` as a series of numbered task groups.
 >   - `requirements.md` for the scope, decisions, context
 >   - `validation.md` for how to know the implementation succeeded and can be merged
+>   - `model.c4` for the [LikeC4](https://likec4.dev) model that will reflect the architectural diagram for having a visual representation of generated components that this phases included.
 >
 >Refer to specs/mission.md and specs/tech-stack.md for guidance.
 >
@@ -47,9 +48,9 @@ Defined in TODO.md file
 >
 > Align the specs/roadmap.md with the TODO.md file
 
-## 4. Implement the feature
+## 4. Implement the phase
 
-> Implement the feature's plan
+> Implement the phase's plan
 >
 >At the end mark the Phase as completed in /specs/roadmap.md
 >
