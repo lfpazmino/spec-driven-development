@@ -14,7 +14,7 @@
 
 Open sources projects
 
-![frameworks](frameworks.png)
+![frameworks](/assets/frameworks.png)
 
 [OpenSpec](https://openspec.dev/)
 
