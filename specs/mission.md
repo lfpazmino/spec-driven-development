@@ -13,17 +13,8 @@ MyProject's top mission
 
 Core concept behind the app
 
-## Key Features
-
-- **Feature 1** - Capability 1
-- **Feature 2** - Capability 2
-- **Feature 3** - Capability 3
-
-### Samples
-
-Examples
-
 <!-- Generated section -->
+
 ## What We Do
 
 **{MyProject}** goal.
